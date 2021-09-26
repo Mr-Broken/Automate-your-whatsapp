@@ -1,5 +1,11 @@
 # Automate-your-whatsapp
 Using this selenium code you can automate your whatsApp easily and it is vey awesome must try it
+You just need to do three thing before executitng this code
+1. Download ChromeDriver.exe file to control your chrome go int this given link to donwlaod chromeDriver ==> https://chromedriver.chromium.org/downloads
+
+2. And just setup web.whatsapp.com, You need to remember this things that you have to login every time when you excute this code
+3. And last thing in this code may be you span-path and send-button-path are diffrent fix by trying to execute and help of error
+4. And enjoy your code. It really Works. 
 
 
 #Code
